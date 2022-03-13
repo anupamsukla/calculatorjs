@@ -1,0 +1,20 @@
+{
+  "name": "calculatorjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CALCULATOR.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anupamsukla/calculatorjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anupamsukla/calculatorjs/issues"
+  },
+  "homepage": "https://github.com/anupamsukla/calculatorjs#readme"
+}
